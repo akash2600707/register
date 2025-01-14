@@ -4,6 +4,7 @@
     "email": "akashramesh2607@gmail.com"
   },
   "record": {
-    "CNAME": "akashr-portfolio.onrender.com"
+    "CNAME": "akashr-portfolio.onrender.com",
+    "TXT": "openai-domain-verification=dv-AwTC0ZyfZclyxv1uHLQac0ds"
   }
 }
